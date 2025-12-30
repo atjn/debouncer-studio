@@ -1,0 +1,3 @@
+[submodule "src/lib/debouncer"]
+	path = src/lib/debouncer
+	url = https://github.com/atjn/debouncer
